@@ -5,7 +5,7 @@
 
 
 ## Dataset Used
-- <a href=""> Dataset </a>
+- <a href="https://github.com/divyakm09/Blinkit-Excel-Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx"> Dataset </a>
 
 ## Tools Used
 Microsoft Excel, Power Pivot, Pivot Tables, Charts(Bar,Lines,Column), Slicers and Timelines for interactivity
@@ -22,7 +22,7 @@ Microsoft Excel, Power Pivot, Pivot Tables, Charts(Bar,Lines,Column), Slicers an
 - Product Popularity by Occasion: Identify which products are most popular during
   
 ## Dashboard Interaction
-- <a href="https://github.com/divyakm09/FNP-Excel-Dashboard/blob/main/Dashobard%20img.JPG"> View Dashboard <a>
+- <a href=""> View Dashboard <a>
 
 ## Process
 1) Import & Prepare Data : Load all related tables (e.g., Orders, Products, Categories, Customers) into Excel or directly into Power Pivot.
